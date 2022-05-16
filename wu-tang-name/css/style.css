@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+h1{
+    float: center;
+    width: 100%;
+    padding-left: 40%;
+    color: red;
+}
+div{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 40%;
+    color: red;
+    font-size: 20px;
+    
+}
+select{
+    width: 20%;
+    height: 30px;
+}
+button{
+    color: red;
+    margin-left: 45%;
+    background-color: yellow;
+}
+h2{
+    padding-left: 40%;
+    font-size: 40px;
+    color: red;
+
+}
